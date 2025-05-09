@@ -1,6 +1,6 @@
 ---
 title: "Spring Boot API 설계에서의 Entity와 DTO"
-date: 2025-05-09 21:00:00 +0900
+date: 2025-05-09 17:00:00 +0900
 categories: [Study]
 tags: [JPA, DTO, REST API, Spring Boot]
 ---
