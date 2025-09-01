@@ -2,11 +2,8 @@
 title: "애자일(Agile) vs DevOps, 같은 듯 다른 개발 문화"
 date: 2025-08-29 20:00:00 +0900
 categories: [소프트웨어 공학]
-tags: [정보관리기술사, 소프트웨어 개발방법론, 애자일, DevOps]
+tags: [소프트웨어 개발방법론, 애자일, DevOps]
 ---
-
-# 이전 작성글
-[소프트웨어 개발방법론, 애자일(Agile)](https://anhyoin97.github.io/posts/)
 
 # 🎯 애자일(Agile) vs DevOps
 
@@ -70,6 +67,6 @@ tags: [정보관리기술사, 소프트웨어 개발방법론, 애자일, DevOps
 - 애자일은 **개발 단계의 민첩성 확보**  
 - DevOps는 **개발 + 운영까지 통합 민첩성 확보**  
 
-## 📚 출처
+## 📚 참고자료
 - Atlassian. [Agile vs DevOps](https://www.atlassian.com/devops/what-is-devops/agile-vs-devops)  
 - AWS. [The difference between Agile and DevOps](https://aws.amazon.com/compare/the-difference-between-agile-devops/)  

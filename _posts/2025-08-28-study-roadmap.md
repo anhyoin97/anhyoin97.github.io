@@ -9,7 +9,7 @@ tags: [정보관리기술사, 정보관리기술사 자주 출제되는 99대 �
 > **`공식적으로 공개된 리스트가 아닌, AI의 도움을 받은 100% 개인적인 참고자료입니다.`**
 > 
 > **`최초 작성일 : 2025.08.28 (목)`**<br>
-> **`최종 수정일 : 2025.08.29 (금)`**
+> **`최종 수정일 : 2025.09.01 (월)`**
 
 
 ## 1. 정보 전략 및 관리
@@ -38,11 +38,12 @@ tags: [정보관리기술사, 정보관리기술사 자주 출제되는 99대 �
     - PMO 운영
 
 ## 2. 소프트웨어 공학
-- **개발방법론**
+- <span style="color:#4AA8D8; font-weight:bold;">개발방법론</span>
     - 폭포수 vs 애자일 vs DevOps
         - [소프트웨어 개발방법론, 애자일(Agile)](https://anhyoin97.github.io/posts/software-agile/)
         - [애자일(Agile) vs DevOps, 같은 듯 다른 개발 문화](https://anhyoin97.github.io/posts/agile-devops/)
     - DevSecOps
+        - [DevSecOps는?](https://anhyoin97.github.io/posts/devops-devsecops/)
 - **분석 및 설계**
     - SW 아키텍처 스타일(MVC, MSA, Event-driven)
     - UI/UX 설계 기법

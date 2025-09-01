@@ -2,7 +2,7 @@
 title: "소프트웨어 개발방법론, 애자일(Agile)"
 date: 2025-08-25 20:00:00 +0900
 categories: [소프트웨어 공학]
-tags: [정보관리기술사, 소프트웨어 개발방법론, 애자일]
+tags: [소프트웨어 개발방법론, 애자일]
 ---
 
 # 🎯 애자일 방법론
@@ -129,7 +129,7 @@ XP는 이름처럼 개발 기법을 극한으로 밀어붙이는 방식.
 
 ---
 
-## 📚 출처
+## 📚 참고자료
 - Agile Manifesto: https://agilemanifesto.org/iso/ko/manifesto.html  
 - Scrum Guide (Ken Schwaber & Jeff Sutherland, 2020)  
 - Ken Schwaber & Jeff Sutherland, The Scrum Guide, 2020
