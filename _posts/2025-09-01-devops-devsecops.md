@@ -4,7 +4,11 @@ date: 2025-09-01 20:00:00 +0900
 categories: [소프트웨어 공학]
 tags: [소프트웨어 개발방법론, DevSecOps]
 ---
-
+<style>
+table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: 0.95rem; }
+table th, table td { border: 1px solid #e5e7eb; padding: 8px 12px; text-align: center; vertical-align: middle; }
+table th { background: #f9fafb; font-weight: 700; }
+</style>
 # 🎯 DevSecOps는?
 최근 IT 환경은 클라우드, 마이크로서비스, 오픈소스 확산으로 보안 위협이 증가하였다.
 <br>그래서, `DevOps` 문화가 속도에 집중했다면, 보안 내재화 요구에 따라 `DevSecOps` 등장한 것이다.
