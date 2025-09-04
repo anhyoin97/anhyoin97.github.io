@@ -27,6 +27,7 @@ tags: [정보관리기술사, 정보관리기술사 자주 출제되는 99대 �
     - 데이터 윤리 / 책임 있는 AI
 - **IT 감리**
     - 감리 절차 / 감리원 역할
+       - [IT 감리 절차 / 감리원 역할](https://anhyoin97.github.io/posts/IT-Auditing/)
     - ITSM/ITIL과 감리 연계
 - **통계**
     - 통계적 가설 검정
